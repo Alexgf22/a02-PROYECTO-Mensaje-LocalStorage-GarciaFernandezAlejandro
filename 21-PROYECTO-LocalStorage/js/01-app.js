@@ -3,6 +3,7 @@
 
 // console.log(window)
 
+/*
 localStorage.setItem("nombre", "Manuel")
 
 sessionStorage.setItem("nombre2", "Pepe")
@@ -19,3 +20,5 @@ localStorage.setItem("listaCompra",producto)
 const meses = ["Enero", "Febrero", "Marzo"]
 
 localStorage.setItem("meses",JSON.stringify(meses))
+
+*/

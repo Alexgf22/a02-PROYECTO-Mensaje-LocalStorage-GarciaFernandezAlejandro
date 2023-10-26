@@ -1,5 +1,7 @@
 // Teoría localStorage clase
 
+/*
+
 const nombre = localStorage.getItem("nombre")
 console.log(nombre)
 
@@ -8,3 +10,5 @@ console.log(JSON.parse(productoJSON))
 
 
 console.log(JSON.parse(localStorage.getItem("meses")))
+
+*/
